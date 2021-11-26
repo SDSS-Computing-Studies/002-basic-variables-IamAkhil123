@@ -1,4 +1,4 @@
 
-fname= "Mr"
+fname = "Mr"
 
-lname= "Yang"
+lname = "Yang"
