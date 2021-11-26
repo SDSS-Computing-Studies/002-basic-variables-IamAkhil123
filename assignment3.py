@@ -1,3 +1,4 @@
+#! python3
 
 value1 = 10
 
